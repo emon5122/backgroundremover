@@ -1,0 +1,18 @@
+{
+  "expo": {
+    "scheme": "acme",
+    "web": {
+      "bundler": "metro"
+    },
+    "name": "backgroundremover",
+    "slug": "backgroundremover",
+    "extra": {
+      "eas": {
+        "projectId": "b57d5e94-db0a-4a1b-b09c-036b1c438b33"
+      }
+    },
+    "android": {
+      "package": "com.emon5122.backgroundremover"
+    }
+  }
+}
