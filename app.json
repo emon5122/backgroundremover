@@ -13,6 +13,9 @@
     },
     "android": {
       "package": "com.emon5122.backgroundremover"
+    },
+    "ios": {
+      "bundleIdentifier": "com.emon5122.backgroundremover"
     }
   }
 }
